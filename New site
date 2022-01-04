@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>hello world<br><title>my program</title></head>
+<body><main><strong>MY FIRST PROGRAM</strong></main><br><section>what do you think about it?</section><br>
+<button>nice</button><br><button>bad</button></body></html><br>
+</nav><a href="https://akinolaakeem.com/hcj/" <button>click here to join Akinola's class</button> </a></nav>
+<footer>
+<h1 style=color:blue>My list</h1>
+<ul><li style=color:green>Rice</li><li>fufu</li></ul>
+<h2 style=color:blue>My list</h2>
+<ol><li style=color:green>Rice</li><li>fufu</li></ol></footer>
+<html>
+<img src="img/laptop.jpeg">
